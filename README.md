@@ -1,4 +1,4 @@
-![UFO Header][https://media.giphy.com/media/.../giphy.gif](https://media.giphy.com/media/.../giphy.gif)).
+
 
 # UFO-tracker-browser
 UFO tracker 
