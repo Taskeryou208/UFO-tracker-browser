@@ -1,4 +1,4 @@
-![UFO Header](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![UFO Header](https://giphy.com/gifs/space-alien-spaceship-r88w2d7tHqazFwNEGN)
 
 # UFO-tracker-browser
 UFO tracker 
